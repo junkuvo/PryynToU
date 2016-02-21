@@ -6,168 +6,168 @@
         jumboMode="false"
         revision="23.0.2"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-1aa6b7297c624bfd8eef16441f355c4a13c9da2f.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-1aa6b7297c624bfd8eef16441f355c4a13c9da2f.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-df2673ae058ea0eeace3f0fe6a958c52d0e698cf.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-df2673ae058ea0eeace3f0fe6a958c52d0e698cf.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.github.shell-software/uitools/1.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="418307d960be5f7c5fe13794b7283f5fd09d0c17">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-bdc2f6ae45fb79c70ea094aa524c48a76dcbdb58.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-bdc2f6ae45fb79c70ea094aa524c48a76dcbdb58.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/PryynToU/pryyntplugin/unspecified/jars/libs/android-async-http-1.4.6.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-da76d79b65b736051fa1310bda4004bba1e89284.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/android-async-http-1.4.6-da76d79b65b736051fa1310bda4004bba1e89284.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/PryynToU/pryyntplugin/unspecified/jars/libs/jackson-annotations-2.0.4.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="bf8ae811948b74ada97f643477d209bb336574eb">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.0.4-5a31b2e6062ac140f1769a5dde8517617f25a421.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/jackson-annotations-2.0.4-5a31b2e6062ac140f1769a5dde8517617f25a421.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-1281d7fa3911f56b42a91e806bf1fdbcd3a0279a.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-1281d7fa3911f56b42a91e806bf1fdbcd3a0279a.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/PryynToU/pryyntplugin/unspecified/jars/libs/jackson-core-2.0.4.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="fda2057c7eafd65915deb349c32bbb11a241d6c1">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/jackson-core-2.0.4-2e690a82f96c1c14d47463d0f919f6a95eff41be.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/jackson-core-2.0.4-2e690a82f96c1c14d47463d0f919f6a95eff41be.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/PryynToU/pryyntplugin/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="69f85c35c38ffcbad20a1be2175a38169f7bc82f">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-454d9bf96396fb9afdc365d04208b7053467f348.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-454d9bf96396fb9afdc365d04208b7053467f348.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/PryynToU/pryyntplugin/unspecified/jars/libs/metadata-extractor-2.7.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8fd8955b0fc30e62ecdc250f7d8471d2cd42fd46">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.7.0-b218e5a3af68d46b1278db668d38e65bbfa1f5e7.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/metadata-extractor-2.7.0-b218e5a3af68d46b1278db668d38e65bbfa1f5e7.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.8/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-6bc03941ed8c37f7cb3d252304199270230bd574.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-6bc03941ed8c37f7cb3d252304199270230bd574.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.github.shell-software/viewmover/1.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="3d6dc28c575755c91be7f6a69803e4ebe98c7c7d">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-0f11a9a5f08bff77c7b9c638398e2e11bcfe52ee.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-0f11a9a5f08bff77c7b9c638398e2e11bcfe52ee.jar" />
     </item>
     <item
         jar="/Users/okubojunji/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.9/872ec63b41181e29ad5a3723f1417356e2d2c0f2/slf4j-api-1.7.9.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="872ec63b41181e29ad5a3723f1417356e2d2c0f2">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.9-54e04afa1f165ca9cf511e43d62ff0a338fc486c.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/slf4j-api-1.7.9-54e04afa1f165ca9cf511e43d62ff0a338fc486c.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.2/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="48bbecbdd3ed42e9df1b94a945480838e3bb208b">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-9784cfd5733ba13af11b2baf5fe3b72bdb0d87c2.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-9784cfd5733ba13af11b2baf5fe3b72bdb0d87c2.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.github.lsjwzh.RecyclerViewPager/lib/v1.1.0-beta5/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d24b13a4aca6724b0141725f9489b88575962ce">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-c14ef0b97b6d24296de70b9205674ef15cdd9349.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-c14ef0b97b6d24296de70b9205674ef15cdd9349.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.4/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-9a69fa57d3fdcdd140a48bdf44b85d66baee1599.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-9a69fa57d3fdcdd140a48bdf44b85d66baee1599.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.5/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-4ff739a65faab4d70806a09b2459c39d5c2d2f58.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-4ff739a65faab4d70806a09b2459c39d5c2d2f58.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/PryynToU/pryyntplugin/unspecified/jars/libs/apache-httpcomponents-httpclient.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/apache-httpcomponents-httpclient-90d5efe90e995551b14bca7d3fe155a899d03380.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/apache-httpcomponents-httpclient-90d5efe90e995551b14bca7d3fe155a899d03380.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-f9d78dfea2510ebd29e7cbfe3545cdd67f90a4b3.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-f9d78dfea2510ebd29e7cbfe3545cdd67f90a4b3.jar" />
     </item>
     <item
         jar="/Users/okubojunji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-1f7cf6659349500a51149fdd9fa2cc2a2045c8f0.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1-1f7cf6659349500a51149fdd9fa2cc2a2045c8f0.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-3204d45ef0f0439e6c9ad991ecad4d725e5fd62f.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-3204d45ef0f0439e6c9ad991ecad4d725e5fd62f.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/PryynToU/pryyntplugin/unspecified/jars/libs/xmpcore-5.1.2.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="55615fa2582424e38705487d1d3969af8554f637">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2-63f1aea00d7a37a3b59eeeee4ff7249d13c90f0a.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/xmpcore-5.1.2-63f1aea00d7a37a3b59eeeee4ff7249d13c90f0a.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/classes-f71b66537b238b96dbeca35056a7c22d2607bbfa.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/classes-f71b66537b238b96dbeca35056a7c22d2607bbfa.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-94332074693bd1af6e3bff92b450c402749393f0.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1-94332074693bd1af6e3bff92b450c402749393f0.jar" />
     </item>
     <item
         jar="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/exploded-aar/PryynToU/pryyntplugin/unspecified/jars/libs/jackson-databind-2.0.4.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="cf05e1449bccc5dae87bd64d3e7b7be686a19af8">
-        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/debug/jackson-databind-2.0.4-b97ae53a4bba9dd782cf80057834ab9f711804be.jar" />
+        <dex dex="/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/app/build/intermediates/pre-dexed/release/jackson-databind-2.0.4-b97ae53a4bba9dd782cf80057834ab9f711804be.jar" />
     </item>
 
 </items>
