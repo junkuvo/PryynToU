@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pryynt-plugin</string>
+    <string name="title_activity_pryynt_app">PRYYNT</string>
+    <string name="btn_close_desc">Close</string>
+
+</resources>

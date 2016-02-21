@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/semi_transparent_grey"
+    android:windowSoftInputMode="adjustResize"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <WebView
+        android:id="@+id/web_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center" />
+
+</FrameLayout><!-- From: file:/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/pryyntplugin/src/main/res/layout/activity_pryynt_app.xml --><!-- From: file:/Users/okubojunji/GitHub/programs/PryynToU/PryynToU/pryyntplugin/build/intermediates/bundles/debug/res/layout/activity_pryynt_app.xml -->
